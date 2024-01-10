@@ -18,7 +18,12 @@
     "@angular/platform-browser": "~12.2.0",
     "@angular/platform-browser-dynamic": "~12.2.0",
     "@angular/router": "~12.2.0",
+    "@ngx-translate/core": "^14.0.0",
+    "angular-mentions": "^1.4.0",
+    "ngx-popperjs": "^12.2.4",
     "rxjs": "~6.6.0",
+    "stream-chat": "^8.14.4",
+    "stream-chat-angular": "^4.53.1-perf-message-list.1",
     "tslib": "^2.3.0",
     "zone.js": "~0.11.4"
   },
